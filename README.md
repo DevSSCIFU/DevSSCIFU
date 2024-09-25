@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me encanta la creación de videojuegos como hobby y disfruto explorando el desarrollo de inteligencia artificial. Me destaco en asumir proyectos y responsabilidades, siempre buscando aprender y mejorar mis habilidades. Estoy aquí para compartir mis trabajos y colaborar con otros. ¡Vamos a conectar!
+Especializado en front-end, creando interfaces atractivas con un enfoque en UI/UX, y también tengo un fuerte interés en ciberseguridad.<br><br>Además, me encanta la creación de videojuegos como hobby y disfruto explorando el desarrollo de inteligencia artificial. Me destaco en asumir proyectos y responsabilidades, siempre buscando aprender y mejorar mis habilidades. Estoy aquí para compartir mis trabajos y colaborar con otros. ¡Vamos a conectar!
 
 
 ## 🌐 Socials:
